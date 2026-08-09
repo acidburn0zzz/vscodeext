@@ -41,7 +41,7 @@
   "dependencies": {
     "@lucide/svelte": "^0.525.0",
     "@types/vscode-webview": "^1.57.5",
-    "dompurify": "^3.3.3",
+    "dompurify": "^3.4.13",
     "marked": "^15.0.7",
     "nanoid": "^5.1.5",
     "zod": "^3.25.67"
